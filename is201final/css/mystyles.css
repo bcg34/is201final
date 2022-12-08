@@ -1,29 +1,56 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
-    color: white;
-    background-color: orange;
+    color: orange;
+    background-color: white;
     font-weight: bold;
 }
 .header
  {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    color: white;
+    color: orange;
     text-align: center;
+    background-color: purple;
+    border-color: orange;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 30px;
+
  }
 .info {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-style: italic;
+    color: black;
     padding-left: 10px;
     padding-right: 10px;
+    border-color: orange;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 30px;
 
 }
 .facts {
     font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    border-color: orange;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 30px;
 
 }
 .pic {
+    text-align: center;
+    color: purple;
+}
+
+.verytop
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: orange;
     text-align: center;
 }
